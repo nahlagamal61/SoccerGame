@@ -1,0 +1,17 @@
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\bin\Debug\net6.0\Teams.deps.json
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\bin\Debug\net6.0\Teams.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\bin\Debug\net6.0\Teams.pdb
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\bin\Debug\net6.0\BaseLibrary.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\bin\Debug\net6.0\Players.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\bin\Debug\net6.0\BaseLibrary.pdb
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\bin\Debug\net6.0\Players.pdb
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\obj\Debug\net6.0\Teams.csproj.AssemblyReference.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\obj\Debug\net6.0\Teams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\obj\Debug\net6.0\Teams.AssemblyInfoInputs.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\obj\Debug\net6.0\Teams.AssemblyInfo.cs
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\obj\Debug\net6.0\Teams.csproj.CoreCompileInputs.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\obj\Debug\net6.0\Teams.csproj.CopyComplete
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\obj\Debug\net6.0\Teams.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\obj\Debug\net6.0\refint\Teams.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\obj\Debug\net6.0\Teams.pdb
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Players\obj\Debug\net6.0\ref\Teams.dll

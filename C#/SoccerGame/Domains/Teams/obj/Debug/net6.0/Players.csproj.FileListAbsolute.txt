@@ -1,0 +1,15 @@
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\bin\Debug\net6.0\Players.deps.json
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\bin\Debug\net6.0\Players.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\bin\Debug\net6.0\Players.pdb
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\bin\Debug\net6.0\BaseLibrary.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\bin\Debug\net6.0\BaseLibrary.pdb
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\obj\Debug\net6.0\Players.csproj.AssemblyReference.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\obj\Debug\net6.0\Players.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\obj\Debug\net6.0\Players.AssemblyInfoInputs.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\obj\Debug\net6.0\Players.AssemblyInfo.cs
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\obj\Debug\net6.0\Players.csproj.CoreCompileInputs.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\obj\Debug\net6.0\Players.csproj.CopyComplete
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\obj\Debug\net6.0\Players.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\obj\Debug\net6.0\refint\Players.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\obj\Debug\net6.0\Players.pdb
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\Domains\Teams\obj\Debug\net6.0\ref\Players.dll

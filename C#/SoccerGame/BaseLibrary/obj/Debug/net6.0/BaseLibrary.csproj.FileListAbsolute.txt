@@ -1,0 +1,12 @@
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\bin\Debug\net6.0\BaseLibrary.deps.json
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\bin\Debug\net6.0\BaseLibrary.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\bin\Debug\net6.0\BaseLibrary.pdb
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\obj\Debug\net6.0\BaseLibrary.csproj.AssemblyReference.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\obj\Debug\net6.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\obj\Debug\net6.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\obj\Debug\net6.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\obj\Debug\net6.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\obj\Debug\net6.0\BaseLibrary.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\obj\Debug\net6.0\refint\BaseLibrary.dll
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\obj\Debug\net6.0\BaseLibrary.pdb
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\BaseLibrary\obj\Debug\net6.0\ref\BaseLibrary.dll
