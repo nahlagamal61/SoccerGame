@@ -1,10 +1,3 @@
-C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.csproj.AssemblyReference.cache
-C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.AssemblyInfoInputs.cache
-C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.AssemblyInfo.cs
-C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.csproj.CoreCompileInputs.cache
-C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\bin\Debug\net6.0\appsettings.json
 C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\bin\Debug\net6.0\SoccerGame.exe
@@ -62,6 +55,13 @@ C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\bin\Debug\net6.0\Teams.d
 C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\bin\Debug\net6.0\BaseLibrary.pdb
 C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\bin\Debug\net6.0\Teams.pdb
 C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\bin\Debug\net6.0\Players.pdb
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.csproj.AssemblyReference.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.AssemblyInfoInputs.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.AssemblyInfo.cs
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.csproj.CoreCompileInputs.cache
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\SoccerGame.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Nahla Gamal\Documents\C#\SoccerGame\SoccerGame\obj\Debug\net6.0\scopedcss\bundle\SoccerGame.styles.css

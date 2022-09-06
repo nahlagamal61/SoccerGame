@@ -4,7 +4,7 @@
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
 
-    public class ApplicationDbContext : DbContext 
+    public class ApplicationDbContext : IdentityDbContext<IdentityUser>
     {
 
        

@@ -1,12 +1,16 @@
 ﻿namespace SoccerGame.Controllers
 {
     using AutoMapper;
-    using BaseLibrary.UnitOfWorks;
-    using Microsoft.AspNetCore.Http;
+    using BaseLibrary.Auth;
+    using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Mvc;
     using SoccerGame.Entities;
     using SoccerGame.UnitOfWorks;
     using SoccerGame.ViewModels;
+  
+
+    [Authorize(Roles = UserRoles.Admin)]
+   // [Authorize(Roles = UserRoles.User)]
 
     [Route("api/[controller]")]
     [ApiController]
